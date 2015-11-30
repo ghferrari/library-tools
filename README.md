@@ -6,7 +6,7 @@ The tools available in this repository are:
 
 ## Getting Started with the Excel Library Tools
 
-First, you need to get the file LibraryTools.xlam. The simplest way is to download it from the Excel directory here. Alternatively, if you're familiar with the file version tools /git/, feel free to clone this entire repository.
+First, you need to get the file LibraryTools.xlam. The simplest way is to download it from the Excel directory here. Alternatively, if you're familiar with the file version software called _git_, feel free to clone this entire repository.
 
 The LibraryTools.xlam file is designed to be used as an Excel AddIn. Please follow the instructions below for your version of Excel.
 
